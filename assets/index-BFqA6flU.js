@@ -1,0 +1,1 @@
+import{j as e}from"./index-B6cNwYG_.js";const s=({children:r,hasNotification:t,className:n,onClick:o})=>e.jsxs("div",{onClick:o,className:`icon-container grid place-content-center relative cursor-pointer ${n}`,children:[r,t&&e.jsx("div",{className:"w-2.5 h-2.5 bg-accent-red rounded-full absolute top-0 right-0 z-10 "})]});export{s as IconContainer};

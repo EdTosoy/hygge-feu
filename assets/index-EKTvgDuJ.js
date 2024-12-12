@@ -1,0 +1,1 @@
+import{j as o}from"./index-B6cNwYG_.js";const n=({text:r,className:t,onClick:e})=>o.jsx("button",{className:`grid place-content-center text-dark-violet border  border-dark-violet   hover:bg-dark-violet hover:text-white hover:ring-2 hover:ring-dark-violet hover:ring-opacity-50 shadow-3xl shadow-dark-violet  ${t}`,type:"button",onClick:e,children:r});export{n as SecondaryButton};
